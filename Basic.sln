@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repitition", "Repitition\Repitition.csproj", "{7B104CB2-514E-437A-AF35-EE205A7112D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repitition", "Repitition\Repitition.csproj", "{7B104CB2-514E-437A-AF35-EE205A7112D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2", "Lesson2\Lesson2.csproj", "{C71F61CC-BE73-4BDD-91EF-0348A3C27B0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7B104CB2-514E-437A-AF35-EE205A7112D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B104CB2-514E-437A-AF35-EE205A7112D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B104CB2-514E-437A-AF35-EE205A7112D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C71F61CC-BE73-4BDD-91EF-0348A3C27B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C71F61CC-BE73-4BDD-91EF-0348A3C27B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C71F61CC-BE73-4BDD-91EF-0348A3C27B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C71F61CC-BE73-4BDD-91EF-0348A3C27B0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
